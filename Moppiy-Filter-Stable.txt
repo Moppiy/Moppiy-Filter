@@ -8478,4 +8478,3 @@ kakaku.com##.pageTop
 ! 2026-07-18 https://androplus.jp
 androplus.jp###pagetop
 androplus.jp###fix_tocbtn
-androplus.jp###header
