@@ -8510,3 +8510,6 @@ phone-cierge.com###header
 
 ! 2026-07-18 phone-cierge.com - TrafficGateアフィリエイトボタン
 phone-cierge.com##.wp-block-buttons:has(a[href^="https://ad2.trafficgate.net/"])
+
+! 2026-07-18 innovatopia.jp - サイトヘッダー
+innovatopia.jp##header.wp-block-template-part
