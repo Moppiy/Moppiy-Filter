@@ -8484,5 +8484,5 @@ androplus.jp###fix_tocbtn
 gizmodo.jp##.bws-avoid
 gizmodo.jp###globalNav.header_scrolled__uFU9c.header_header__pwrbs
 
-! 2026-07-18 PR TIMES - ヘッダー
-prtimes.jp##.press-release-layout_root__vHs_X
+! 2026-07-18 PR TIMES - 記事の会社名・フォローバー
+prtimes.jp##header.root_root__zZsaD
