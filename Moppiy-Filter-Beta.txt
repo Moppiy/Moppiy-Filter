@@ -8523,3 +8523,6 @@ creative311.com###page-top
 ! 2026-07-18 sumahodigest.com - ページトップボタン
 ###go-to-top
 
+! 2026-07-18 gdm.or.jp - ページトップボタン
+##.GoToTop
+
