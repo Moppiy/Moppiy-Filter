@@ -8487,3 +8487,5 @@ gizmodo.jp###globalNav.header_scrolled__uFU9c.header_header__pwrbs
 ! 2026-07-18 PR TIMES - 記事の会社名・フォローバー
 prtimes.jp##header:has(button[class^="follow-button_button"])
 
+! 2026-07-18 gori.me - Google登録案内
+gori.me##.gm-pswish
