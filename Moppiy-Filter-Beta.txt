@@ -8480,6 +8480,6 @@ androplus.jp###pagetop
 androplus.jp###fix_tocbtn
 
 ! 2026-07-18 Gizmodo Japan
-gizmodo.jp##.gtm-rankingTab
+##.gtm-rankingTab
 gizmodo.jp##.bws-avoid
 gizmodo.jp###globalNav.header_scrolled__uFU9c.header_header__pwrbs
