@@ -8495,3 +8495,12 @@ phone-cierge.com##.diagnosis_banner
 
 ! 2026-07-18 phone-cierge.com - 下部キャリアバナー
 phone-cierge.com##.floating_ul_wrapper
+
+! 2026-07-18 phone-cierge.com - ページトップボタン
+phone-cierge.com###pagetop
+
+! 2026-07-18 phone-cierge.com - ヘッダー
+phone-cierge.com###header
+
+! 2026-07-18 phone-cierge.com - クマモリ広告
+##.kumamoriad
