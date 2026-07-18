@@ -8474,3 +8474,8 @@ www.showcase-tv.com##div.mmcorner
 
 ! 2025/01/04 https://kakaku.com
 kakaku.com##.pageTop
+
+! 2026-07-18 https://androplus.jp
+androplus.jp###pagetop
+androplus.jp###fix_tocbtn
+androplus.jp###header
