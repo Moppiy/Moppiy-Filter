@@ -8529,3 +8529,6 @@ creative311.com###page-top
 ! 2026-07-18 garumax.com - ページトップボタン
 ##.js-pagetop
 
+! 2026-07-18 gamespark.jp - 固定ヘッダー
+###mms-block
+
