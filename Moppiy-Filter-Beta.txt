@@ -8482,7 +8482,7 @@ androplus.jp###fix_tocbtn
 ! 2026-07-18 Gizmodo Japan
 ##.gtm-rankingTab
 gizmodo.jp##.bws-avoid
-gizmodo.jp##header[id="globalNav"]
+gizmodo.jp###globalNav.header_scrolled__uFU9c.header_header__pwrbs
 
 ! 2026-07-18 PR TIMES - 記事の会社名・フォローバー
 prtimes.jp##header:has(button[class^="follow-button_button"])
