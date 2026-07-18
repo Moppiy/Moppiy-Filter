@@ -8489,3 +8489,9 @@ prtimes.jp##header:has(button[class^="follow-button_button"])
 
 ! 2026-07-18 gori.me - Google登録案内
 gori.me##.gm-pswish
+
+! 2026-07-18 phone-cierge.com - オンライン個別相談バナー
+phone-cierge.com##.diagnosis_banner
+
+! 2026-07-18 phone-cierge.com - 下部キャリアバナー
+phone-cierge.com##.floating_ul_wrapper
