@@ -8526,3 +8526,6 @@ creative311.com###page-top
 ! 2026-07-18 gdm.or.jp - ページトップボタン
 ##.GoToTop
 
+! 2026-07-18 garumax.com - ページトップボタン
+##.js-pagetop
+
