@@ -8513,3 +8513,9 @@ phone-cierge.com##.wp-block-buttons:has(a[href^="https://ad2.trafficgate.net/"])
 
 ! 2026-07-18 innovatopia.jp - サイトヘッダー
 innovatopia.jp##header.wp-block-template-part
+
+! 2026-07-18 creative311.com - モバイル固定ナビゲーション
+###mobile-buttons
+
+! 2026-07-18 creative311.com - ページトップボタン
+creative311.com###page-top
