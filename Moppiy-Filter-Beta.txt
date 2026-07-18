@@ -8529,9 +8529,3 @@ creative311.com###page-top
 ! 2026-07-18 garumax.com - ページトップボタン
 ##.js-pagetop
 
-! 2026-07-18 gamespark.jp - 上部固定ナビゲーション
-gamespark.jp###mms-pre-topnavbar
-
-! 2026-07-18 gamespark.jp - メイン固定ヘッダー
-gamespark.jp###mms-home
-
