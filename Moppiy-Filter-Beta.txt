@@ -8601,15 +8601,3 @@ www.gamespark.jp###mms-content-wrapper
 ! 2026-07-18 Global - reCAPTCHAバッジ
 ##.grecaptcha-badge
 
-! 2026-07-19 daily-gadget.net - 記事上部SNS
-daily-gadget.net###sns-group-top
-
-! 2026-07-19 daily-gadget.net - Xフォローバナー
-daily-gadget.net###media_image-3
-
-! 2026-07-19 daily-gadget.net - 記事上部動画広告
-daily-gadget.net##.JP_DGG_sp_video_instream_cls
-
-! 2026-07-19 daily-gadget.net - ページトップボタン
-daily-gadget.net##div[style*="opacity"][id="page-top"]
-
