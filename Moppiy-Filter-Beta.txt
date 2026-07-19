@@ -8543,3 +8543,6 @@ www.gamespark.jp###mms-content-wrapper
 
 ! 2026-07-18 Global - ページトップボタン（gotop）
 ###gotop
+
+! 2026-07-18 Global - ソーシャルブックマーク
+##.social-bookmark
