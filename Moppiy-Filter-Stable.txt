@@ -8556,3 +8556,30 @@ www.gamespark.jp###mms-content-wrapper
 ! 2026-07-18 Global - Amazon モバイル広告（下段）
 ###mobile-ads-bottom_feature_div
 
+! 2026-07-18 Global - 広告ブロック
+##.adblock.no-popup
+
+! 2026-07-18 Global - Google広告
+##.gad
+
+! 2026-07-18 Global - Adsense Inner
+##.adsenseInner.uzouUpper
+
+! 2026-07-18 Global - 広告ボックス2021
+##.adboxads2021
+
+! 2026-07-18 Global - 広告SSP
+##.adssp3
+
+! 2026-07-18 Global - Centering広告
+##.centering.adunder
+
+! 2026-07-18 Global - 広告ボックス5
+##.adbox5
+
+! 2026-07-18 Global - 関連広告ロゴ
+##.AdsSingleLogoAft
+
+! 2026-07-18 Global - 関連広告
+##.AdsRelate
+
