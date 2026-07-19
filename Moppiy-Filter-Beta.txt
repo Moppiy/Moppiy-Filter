@@ -8608,5 +8608,5 @@ daily-gadget.net###media_image-3
 daily-gadget.net###page-top
 
 ! 2026-07-19 daily-gadget.net - 記事上部動画広告
-##.JP_DGG_sp_video_instream_cls
+*##.JP_DGG_sp_video_instream_cls
 
