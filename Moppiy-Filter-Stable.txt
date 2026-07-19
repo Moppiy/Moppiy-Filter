@@ -8583,3 +8583,15 @@ www.gamespark.jp###mms-content-wrapper
 ! 2026-07-18 Global - 関連広告
 ##.AdsRelate
 
+! 2026-07-18 KENI - 固定ヘッダー
+##.keni-header_wrap.fixed
+
+! 2026-07-18 KENI - グローバルナビ
+##.keni-gnav_wrap
+
+! 2026-07-18 KENI - フッターパネル
+##.keni-footer-panel_wrap
+
+! 2026-07-18 KENI - ヘッダー
+##.keni-header_wrap
+
