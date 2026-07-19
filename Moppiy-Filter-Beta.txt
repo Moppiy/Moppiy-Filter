@@ -8546,3 +8546,13 @@ www.gamespark.jp###mms-content-wrapper
 
 ! 2026-07-18 Global - ソーシャルブックマーク
 ##.social-bookmark
+
+! 2026-07-18 Global - Amazon Heroプロモーション
+###heroQuickPromo_feature_div
+
+! 2026-07-18 Global - Amazon モバイル広告（中段）
+###mobile-ads-middle_feature_div
+
+! 2026-07-18 Global - Amazon モバイル広告（下段）
+###mobile-ads-bottom_feature_div
+
