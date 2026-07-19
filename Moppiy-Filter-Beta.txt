@@ -8608,5 +8608,5 @@ www.gamespark.jp###mms-content-wrapper
 daily-gadget.net###move-page-top
 
 ! 2026-07-19 daily-gadget.net - ヘッダー下余白
-daily-gadget.net##header{margin-bottom:0!important;}
+daily-gadget.net##header{padding-bottom:0!important;}
 
