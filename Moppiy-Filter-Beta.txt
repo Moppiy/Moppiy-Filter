@@ -8532,3 +8532,14 @@ creative311.com###page-top
 ! 2026-07-18 gamespark.jp - 固定ヘッダー
 www.gamespark.jp###mms-content-wrapper
 
+! 2026-07-18 Global - ページトップボタン（to_top）
+###to_top
+
+! 2026-07-18 Global - ページトップボタン（return_top）
+###return_top
+
+! 2026-07-18 Global - ページトップボタン（scrollUp）
+###scrollUp
+
+! 2026-07-18 Global - ページトップボタン（gotop）
+###gotop
