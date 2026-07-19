@@ -8595,3 +8595,9 @@ www.gamespark.jp###mms-content-wrapper
 ! 2026-07-18 KENI - ヘッダー
 ##.keni-header_wrap
 
+! 2026-07-18 Global - reCAPTCHAロゴ
+##.grecaptcha-logo
+
+! 2026-07-18 Global - reCAPTCHAバッジ
+##.grecaptcha-badge
+
